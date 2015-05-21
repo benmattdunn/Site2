@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="MainPage.aspx.cs" Inherits="ASP.NET_BOOTSTRAP_TEMPLATE2.MainPage" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="ASP.NET_BOOTSTRAP_TEMPLATE2.MainPage" %>
 
 <!DOCTYPE html>
 
